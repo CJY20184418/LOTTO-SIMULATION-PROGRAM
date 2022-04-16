@@ -1,8 +1,7 @@
 ## 🎲 로또 시뮬레이션 프로그램
 
 
-
-
+ ![iOS badge](https://img.shields.io/badge/%20-c%2B%2B-blue)       ![iOS badge](https://img.shields.io/badge/%20-GitHub-black)
 
 
 #### 📑 프로젝트 알고리즘
@@ -26,9 +25,3 @@
  1. ~로또의 2등과 3등은 보너스 번호의 차이만 있으므로 6개의 lotto num 외에 따로 보너스 번호가 들어갈 공간 추가~ (22.04.15✔️)
  
  3. my num에 모두 같은 수를 입력하여, 그 중 하나라도 lotto num과 동일할 경우 1등에 당첨되는 오류가 있으므로 my num에 같은 번호를 작성할 수 없도록 해야 함.
-
-
-#### 언어 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CJY20184418)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CJY20184418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
