@@ -40,8 +40,9 @@
  ```
  
 - [X] 2. my num에 모두 같은 수를 입력하여, 그중 하나라도 lotto num과 동일할 경우 1등에 당첨되는 오류가 있으므로 my num에 같은 번호를 작성할 수 없도록 해야 함.
-      for (int i = 0; i<6; i++)
+  ```for (int i = 0; i<6; i++)
         { 
             for (int b = 0; b<6; b++)
             { if(i==b){ } else if(lotto[i] == lotto[b]){ printf("중복된 숫자는 입력할 수 없습니다."); exit(1); } } 
         }
+         ```
