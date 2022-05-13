@@ -32,6 +32,13 @@ int main()
         cout << (i + 1) << " 번 : ";
         cin >> lotto[i];
     }
+    
+    for (int i = 0; i<6; i++)
+    { 
+        for (int b = 0; b<6; b++)
+            { if(i==b){ } else if(lotto[i] == lotto[b]){ printf("중복된 숫자는 입력할 수 없습니다."); exit(1); } } 
+    }
+
 
     int count = 0;
     int second = 0;
@@ -49,11 +56,6 @@ int main()
             }
         }
     }
-        for (int i = 0; i<6; i++)
-        { 
-            for (int b = 0; b<6; b++)
-            { if(i==b){ } else if(lotto[i] == lotto[b]){ printf("중복된 숫자는 입력할 수 없습니다."); exit(1); } } 
-        }
 
     if (count == 5)
     {
