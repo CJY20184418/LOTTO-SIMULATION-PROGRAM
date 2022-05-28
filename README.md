@@ -35,8 +35,7 @@
             }
         }
     }
-    /* count(lotto num과 my num의 동일 개수)가 5일 때 number[6](7번째번호, bonus num)이 
-    my num과 하나라도 일치할 경우 second==1, 불일치의 경우 second==0) */
+
  ```
  
 - [X] 2. my num에 모두 같은 수를 입력하여, 그중 하나라도 lotto num과 동일할 경우 1등에 당첨되는 오류가 있으므로 my num에 같은 번호를 작성할 수 없도록 해야 함.
