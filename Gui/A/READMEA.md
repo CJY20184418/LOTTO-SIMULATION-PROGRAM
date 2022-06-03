@@ -1,5 +1,7 @@
-# Lotto-simulation-program
+# LOTTO-SIMULATION-PROGRAM
 
 프로젝트 소개
 ---
+ 1 ~ 45의 버튼을 통해 6개의 숫자를 입력받고 당첨 숫자와 비교하여 등수를 알려주는 프로그램입니다. 
+ 
 >타 컴퓨터에서
