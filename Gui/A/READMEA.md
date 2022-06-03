@@ -9,9 +9,11 @@
  실제 실행 화면
  ---
  ![oo](https://user-images.githubusercontent.com/101317590/171852025-1ee82e35-da3e-4698-b2f2-89eddba0623d.png)
+ 
 초기 화면 : 위의 숫자를 누르면 A부터 숫자가 입력됩니다.
 
 ![ooo](https://user-images.githubusercontent.com/101317590/171852137-ae2cdd5e-d562-428e-95fc-31c461b7e2f2.png)
+
 결과 화면 : Click 버튼을 통해 당첨숫자와 비교하여 결과를 알려준 모습입니다.
  
  문제점
